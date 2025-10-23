@@ -1,5 +1,6 @@
 // Adds filter to change Gravity PDF default write location to /wp-uploads
-/** This code was added to prove a concept during trial and without direct need to chagne the plugin code
+/** This code was added to prove a concept during trial and without the direct need to change the plugin code
+* This requires the following folder to be added to the active theme gravity-forms/fonts, and all of the custom fonts unzipped in this folder
 */
 add_filter('gfpdf_tmp_location', function ($location) {
 	$upload_dir = wp_get_upload_dir()['basedir'];
