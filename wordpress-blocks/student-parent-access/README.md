@@ -210,7 +210,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/WreckIttr/WordPress-Solutions/student-parent-access.git
+   git clone https://github.com/WreckIttr/WordPress-Solutions.git
 ```
 
 2. Install on a local WordPress installation
@@ -230,9 +230,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 💬 Support
 
-- **Issues**: [GitHub Issues](https://github.com/wreckittr/WordPress-Solutions/student-parent-access/issues)
-- **Documentation**: [Wiki](https://github.com/wreckittr/WordPress-Solutions/student-parent-access/wiki)
-- **Questions**: [Discussions](https://github.com/wreckittr/WordPress-Solutions/student-parent-access/discussions)
+- **Issues**: [GitHub Issues](https://github.com/WreckIttr/WordPress-Solutions/issues)
+- **Documentation**: [Wiki](https://github.com/WreckIttr/WordPress-Solutions/wiki)
+- **Questions**: [Discussions](https://github.com/WreckIttr/WordPress-Solutions/discussions)
 
 ## 📄 License
 
@@ -282,6 +282,6 @@ Future enhancements being considered:
 
 **⭐ If you find this plugin useful, please consider starring the repository!**
 
-**🐛 Found a bug?** [Report it here](https://github.com/wreckittr/WordPress-Solutions/student-parent-access/issues)
+**🐛 Found a bug?** [Report it here](https://github.com/WreckIttr/WordPress-Solutions/issues)
 
-**💡 Have a feature request?** [Share your ideas](https://github.com/wreckittr/WordPress-Solutions/student-parent-access/discussions)
+**💡 Have a feature request?** [Share your ideas](https://github.com/WreckIttr/WordPress-Solutions/issues/discussions)
